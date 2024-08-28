@@ -22,7 +22,7 @@ public class Main
             System.out.println("Zero");
         }
 
-        // Weekbased on the number :
+        // Week based on the number :
         switch (number) {
             case 1:
                 System.out.println("Sunday");    
